@@ -1,0 +1,8 @@
+Subject : HPC
+
+Project Title : Parallel Sudoku Solver
+
+Group Members:
+1)Piyush Ajay Wani(B223064)
+2)Mayur Narendra Sapkale(B223050)
+3)Rahil Nisar Qureshi (B223047)
